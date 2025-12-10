@@ -1,5 +1,5 @@
 
-# Smart_Attendance_System
+# AI-Based Face Recognition Attendance System with WhatsApp Integration
 
 Requirements:
 1. Python Version: Use Python 3.7–3.10(compatible with dlib & face_recognition).
